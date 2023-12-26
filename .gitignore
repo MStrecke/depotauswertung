@@ -1,0 +1,10 @@
+*~
+*dump
+*pyc
+*db
+dump_*
+*old
+__pycache__
+.idea/
+.ipynb_checkpoints/
+.vscode/

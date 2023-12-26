@@ -1,0 +1,19 @@
+# Tritt natürlich nur bei ausschüttenden Fonds auf
+#
+typ: ausschuettung
+datum: 05.12.2021
+depot: postbank
+isin: FR0010315770
+ref: 1234343
+betrag: 12,13
+waehrung: EUR
+bemerkung: Dividendenzahlung
+---
+typ: ausschuettung
+datum: 05.12.2022
+depot: postbank
+isin: FR0010315770
+ref: 1234366
+betrag: 11,12
+waehrung: EUR
+bemerkung: Dividendenzahlung

@@ -1,0 +1,19 @@
+typ: kauf
+datum: 05.10.2023
+depot: postbank
+isin: LU1437016972
+tid: 1234567/123456
+kurs: 95,713
+waehrung: EUR
+anzahl: 2,0896
+kosten: 0,90
+---
+typ: kauf
+datum: 06.11.2023
+depot: postbank
+isin: LU1437016972
+tid: 123231/55678
+kurs: 96,263
+waehrung: EUR
+anzahl: 2,0776
+kosten: 0,90

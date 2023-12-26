@@ -1,0 +1,6 @@
+name: postbank
+waehrung: EUR
+---
+name: flatex
+waehrung: EUR
+kontonummer: 12345678

@@ -1,0 +1,53 @@
+# Basis-Info (muss vorhanden sein)
+#
+name: Amundi Index MSCI World UCITS ETF DR EUR Acc.
+isin: LU1437016972
+thesaurierend: true
+kurswaehrung: EUR
+abrechnungswaehrung: EUR
+#
+# Für die Steuer
+teilfreistellung: 30%
+#
+# Ab hier alles optional
+#
+anmerkung: Empfehlung von meiner Freundin
+#
+# Gut zu wissen
+wkn: A2ATYV
+typ: ETF
+ter: 0,18%
+#
+onvista_entity: 111004859
+onvista_notation: 175063421
+---
+# Neuer Datensatz
+isin: GB00BJDQQQ59
+name: MSCI World (EUR)
+wkn: A3DR38
+typ: index
+kurswaehrung: EUR
+teilfreistellung: 30%
+thesaurierend: true
+#
+fondswaehrung: EUR
+#
+onvista_entity: 3193857
+onvista_notation: 7070261
+---
+# Ein ausschüttender ETF
+isin: FR0010315770
+name: Amundi MSCI World II UCITS ETF Dist
+wkn: LYX0AG
+typ: ETF
+teilfreistellung: 30%
+thesaurierend: false
+kurswaehrung: EUR
+#
+ter: 0,3%
+#
+onvista_entity: 14352926
+onvista_notation: 15214293
+#
+fondswaehrung: EUR
+
