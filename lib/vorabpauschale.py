@@ -10,6 +10,7 @@ BASISZINS_VH = {
     2021: 0.00,
     2022: 0.00,
     2023: 2.55,
+    2024: 3.62,
 }
 
 def get_basiszins_proz(jahr):
